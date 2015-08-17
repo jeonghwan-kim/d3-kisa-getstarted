@@ -1,0 +1,19 @@
+{
+  "name": "d3-kisa-getstarted",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jeonghwan-kim/d3-kisa-getstarted",
+  "authors": [
+    "jeonghwan <ej88ej@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
